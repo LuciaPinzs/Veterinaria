@@ -1,0 +1,44 @@
+ .atencion { color: red;}
+
+ #links{  text-align:right;}
+
+ .parrafo {  text-align: center;
+             font-weight:lighter;
+             font-style: oblique;
+        }
+
+  .contenedor{
+     text-align: center;
+  }  
+
+ #img1{
+    margin-right: 0cm;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    float: left;
+    display: inline-block;
+ }
+
+ #img2{
+    margin-right: 0cm;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    display: inline-block;
+    float: center;
+ }
+
+ #img3{
+    margin-right: 0cm;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    display: inline-block;
+    float: right;
+ }
+
+ .Contacto{
+    text-align: center;
+    display: inline-block;
+ }
